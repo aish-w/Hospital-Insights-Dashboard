@@ -51,6 +51,6 @@ Hospital-Insights-Dashboard/
 ---
 
 ## 📷 Preview
-![Dashboard Preview](Hospital Insight Dashboard.png)
+![Dashboard Preview](https://github.com/aish-w/Hospital-Insights-Dashboard/blob/main/Hospital%20Insight%20Dashboard.png)
 
 ---
